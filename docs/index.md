@@ -1,4 +1,4 @@
-# Add your page title and name here
+# My First Time On GitHub - Jack McRogers
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
 A place for each deliverable has been created below for you in this markdown document. 
