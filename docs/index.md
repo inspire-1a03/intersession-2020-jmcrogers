@@ -21,7 +21,7 @@ Inserting an image takes the form:
 See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 Replace the elements below to insert your picture.
 --> 
-![Jack and His Circuit](images/markdown.png "Built my first ever circuit")
+![Jack and His Circuit](https://github.com/inspire-1a03/intersession-2020-jmcrogers/blob/master/docs/images/IMG_0721.jpeg "Built my first ever circuit")
 
 ## Day 2: Results
 <!--
