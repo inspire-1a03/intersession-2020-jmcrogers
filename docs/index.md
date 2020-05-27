@@ -36,6 +36,15 @@ Provide a short (~150 words) summary of your work on this circuit:
 - What worked? What didn't? 
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 -->
+
+Jack McRogers - 400083804
+Inspire 1A03 - Electronics for the Rest of Us
+Professor Jay Brodeur
+Tuesday, May 26, 2020
+                                            **Reflection #2**
+	This device uses thermistor to vary the resistance in the circuit which connects to the Ardunio. That voltage change is then used to calculate a temperature, this temperature is then reflected in the colour change of the LED. I found the most challenge portion of this activity was combining the code from the Thermistor into the RGB LED script using the Ardunio software. I struggled with the coding as every time I hit verify it came back with an error message and wouldn’t allow me to upload it to the Ardunio. The if/elseif/else prompted further issues and confusion. As this was my first time coding I did not understand the issue. After some research and conversing with a friend he put it simply that the code needs to be in a specific langue that the computer understands. What worked for me was trial and error. When I tried to verify and it stopped me I would trouble shoot that error until it resolved. What didn’t work for me was trying to rewire the board. I found more often that not I was able to follow the diagrams to build my board properly but sometimes wasted time rearranging when the issue really lay elsewhere.
+  
+
 /*
 Adafruit Arduino - Lesson 3. RGB LED
 */
@@ -96,10 +105,18 @@ void setup()
 
 void loop()
 {
-if(temp>22)(
+if(temp > 22 and temp < 25) 
+{
   setColor(255, 0, 0);  // red
-  )
-else(setColor(0, 255, 0);  // green
+}
+else if(temp > 25)
+{
+  setColor(0, 255, 0);  // green
+}
+else
+{
+  setColor(0, 0, 255); //blue
+}
 
   delay(2000);
 }
