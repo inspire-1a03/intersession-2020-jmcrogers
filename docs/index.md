@@ -191,3 +191,14 @@ In ~300 words:
 - Summarize your experience in this module. What you learned, what you liked, what you found challenging.
 - Reflect upon your learning and its relevance in your life.
 -->
+Jack McRogers - 400083804
+
+Inspire 1A03 - Electronics for the Rest of Us
+
+Professor Jay Brodeur
+
+Tuesday, May 26, 2020
+
+                                              Final Reflection
+My experience in this module has been been filled with extreme highs and extreme lows. My journey really started during the 1st lecture where I was so full of life (see photo from deliverable #1) and very excited to be learning about something I knew nothing about. I was truly ecstatic when able to run and modify “Blink” on my Arduino board. I even snap-chatted some of my friends a video of the code and blinking light. Day 2 deliverables and my enthusiasm was beginning to be replaced by frustration and doubt. Fast forward a couple days and I was cursing at my computer and resenting that I didn’t select a different module. Especially knowing I could have cruised through a Stand Up Comedy and Inequality course. But I didn’t select that module because I didn’t think I would gain as much much or be challenged. Anyways, lesson learned. A portion of my resent was pointed at myself for not asking for more help, but speaking freely here I find the virtual platform quite uncomfortable. The largest thing I have learned from this module were traits about myself. These were that that I hate coding, computers program make me unbelievably frustrated, and that I need to be more willing to ask for help. I was of the mindset that I would “figure it out myself”. In all honesty this mindset has proved valuable for me in other walks of life as I find it is the most effective way for me to retain my learning. Despite my glaring failure to complete the main deliverable of this module, my overall negative experience with the technology, and poor grade that is sure to come I am at peace with my short comings and am now trying to seek out the positives. I am grateful as now I know even more about myself and will be more aware of when I need to ask for help. Furthermore, this module was an experience with technology and reminded me of the age old saying “you don’t know you don’t like it till you try it”.  The portion of this class I enjoyed most was the hands on portion using the electronic kit. My entire life I have enjoyed using my hands to create a tangible products. Going forward I will be sure to steer clear of computer coding and stick to wood working.
+                                              
