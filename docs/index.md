@@ -14,7 +14,7 @@ You're also asked to insert a photo that represents your accomplishments on your
 - Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
 - Then, insert your photo into your document by modifying the markdown example that has been inserted below.
 -->
-Jack McRogers - 400083804
+Jack McRogers
 
 Inspire 1A03 - Electronics for the Rest of Us
 
@@ -22,7 +22,7 @@ Professor Jay Brodeur
 
 Tuesday, May 26, 2020
 
-                                             **Reflection #1**
+**Reflection #1**
    During day 1 of the module Electronics for the Rest of Us I was throughly impressed with what I had been able to accomplish and learn in the short 2 hours. In my mind electronics and technology has always been a very daunting thing, and despite my interest I have never even attempted to understand it. That being considered I must admit it was absolutely thrilling and rewarding to build my first circuit and see the little red LED light illuminate on my breadboard. For me it was particularly interesting to learn about how the button works. I had always had a rough guess at how the mechanics of something like that may work and it was very satisfying to have my hypothesis confirmed. I now understand that when the button is pushed that a gate inside becomes closed allowing for current to run through and complete the circuit. This made me realize that light switches must use a very similar mechanism as this button. A seemingly obvious connection between what I had just learned in class and the real world. But then I got thinking that countless other everyday devices must also use something similar to this “button” interface technology to interact with users. Some of the first items that came to mind were a kettle, toaster, and blender. But when considering an object with different settings like a fan I wondered if depending on what button you pushed it completed a different circuit with a different strength resistor within. I believe that is why I am interested in this module, I like learning about basic technology and wondering about all the applications in the real world and how you would modify them. From this module I would like to take away a deeper understanding of the technology in the world around me.
 
 ![Jack and His Circuit](https://github.com/inspire-1a03/intersession-2020-jmcrogers/blob/master/docs/images/IMG_0721.jpeg "Built my first ever circuit")
@@ -37,7 +37,7 @@ Provide a short (~150 words) summary of your work on this circuit:
 - Be sure to link to your code (in your GitHub repository) in the text of your response.
 -->
 
-Jack McRogers - 400083804
+Jack McRogers - 
 
 Inspire 1A03 - Electronics for the Rest of Us
 
@@ -45,7 +45,7 @@ Professor Jay Brodeur
 
 Tuesday, May 26, 2020
 
-                                            **Reflection #2**
+**Reflection #2**
 This device uses thermistor to vary the resistance in the circuit which connects to the Ardunio. That voltage change is then used to calculate a temperature, this temperature is then reflected in the colour change of the LED. I found the most challenge portion of this activity was combining the code from the Thermistor into the RGB LED script using the Ardunio software. I struggled with the coding as every time I hit verify it came back with an error message and wouldn’t allow me to upload it to the Ardunio. The if/elseif/else prompted further issues and confusion. As this was my first time coding I did not understand the issue. After some research and conversing with a friend he put it simply that the code needs to be in a specific langue that the computer understands. What worked for me was trial and error. When I tried to verify and it stopped me I would trouble shoot that error until it resolved. What didn’t work for me was trying to rewire the board. I found more often that not I was able to follow the diagrams to build my board properly but sometimes wasted time rearranging when the issue really lay elsewhere.
 
   
@@ -191,7 +191,7 @@ In ~300 words:
 - Summarize your experience in this module. What you learned, what you liked, what you found challenging.
 - Reflect upon your learning and its relevance in your life.
 -->
-Jack McRogers - 400083804
+Jack McRogers
 
 Inspire 1A03 - Electronics for the Rest of Us
 
@@ -199,6 +199,6 @@ Professor Jay Brodeur
 
 Tuesday, May 26, 2020
 
-                                              Final Reflection
+**Final Reflection**
 My experience in this module has been been filled with extreme highs and extreme lows. My journey really started during the 1st lecture where I was so full of life (see photo from deliverable #1) and very excited to be learning about something I knew nothing about. I was truly ecstatic when able to run and modify “Blink” on my Arduino board. I even snap-chatted some of my friends a video of the code and blinking light. Day 2 deliverables and my enthusiasm was beginning to be replaced by frustration and doubt. Fast forward a couple days and I was cursing at my computer and resenting that I didn’t select a different module. Especially knowing I could have cruised through a Stand Up Comedy and Inequality course. But I didn’t select that module because I didn’t think I would gain as much much or be challenged. Anyways, lesson learned. A portion of my resent was pointed at myself for not asking for more help, but speaking freely here I find the virtual platform quite uncomfortable. The largest thing I have learned from this module were traits about myself. These were that that I hate coding, computers program make me unbelievably frustrated, and that I need to be more willing to ask for help. I was of the mindset that I would “figure it out myself”. In all honesty this mindset has proved valuable for me in other walks of life as I find it is the most effective way for me to retain my learning. Despite my glaring failure to complete the main deliverable of this module, my overall negative experience with the technology, and poor grade that is sure to come I am at peace with my short comings and am now trying to seek out the positives. I am grateful as now I know even more about myself and will be more aware of when I need to ask for help. Furthermore, this module was an experience with technology and reminded me of the age old saying “you don’t know you don’t like it till you try it”.  The portion of this class I enjoyed most was the hands on portion using the electronic kit. My entire life I have enjoyed using my hands to create a tangible products. Going forward I will be sure to steer clear of computer coding and stick to wood working.
                                               
